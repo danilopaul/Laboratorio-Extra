@@ -32,6 +32,10 @@ Tema: Aplicacion del Teorema de Thevenin y Superposicion.
 ![image](https://user-images.githubusercontent.com/105687375/184733246-c4811eab-d420-43f8-811d-b32a0020d7de.png)
 
 3.Explicacion del Procedimiento:
-
-    M :oequeridR poquiEteriales y a
   
+EQUIPO Y MATERIAL REQUERIDO:
+
+![image](https://user-images.githubusercontent.com/105687375/184736243-234497b8-02f7-4af5-8d3a-b0e0767b3feb.png)
+
+3.1. Armar el circuito #1:
+
