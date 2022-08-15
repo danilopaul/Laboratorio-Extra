@@ -33,6 +33,5 @@ Tema: Aplicacion del Teorema de Thevenin y Superposicion.
 
 3.Explicacion del Procedimiento:
 
-   Materiales y Equipo Requerido: 
-
-                                                                                                                                                                         
+    M :oequeridR poquiEteriales y a
+  
