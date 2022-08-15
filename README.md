@@ -29,6 +29,11 @@ Tema: Aplicacion del Teorema de Thevenin y Superposicion.
 
 ![teorema de thevenin](https://user-images.githubusercontent.com/105687375/184732945-ff17565b-bb93-4344-9a7d-5aebcc0c8218.jpg)
 
+![image](https://user-images.githubusercontent.com/105687375/184733246-c4811eab-d420-43f8-811d-b32a0020d7de.png)
+
+3.Explicacion del Procedimiento:
+
+  Materiales
 
 
                                                                                                                                                                          
