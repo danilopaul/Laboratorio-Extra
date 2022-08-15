@@ -39,3 +39,6 @@ EQUIPO Y MATERIAL REQUERIDO:
 
 3.1. Armar el circuito #1:
 
+![image](https://user-images.githubusercontent.com/105687375/184739366-6126de8c-5fae-4326-8ba6-4831f4085564.png)
+
+
