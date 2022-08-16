@@ -107,4 +107,19 @@ P= 3.78mA *  8.32V
 
 P= 31.44 mW
 
+![image](https://user-images.githubusercontent.com/105687375/184791263-0d4e23b7-232b-42f5-b2dd-883637e45ee2.png)
+
+•	Utilizar ACDCLab, para comprobar el resultado, esto mediante un vatímetro que permite medir la potencia.
+
+3.3. Circuito #3:
+
+- Calcular  la intensidad I que pasara por la resistencia 5Ω utilizando utilizando Thevenin.
+
+![image](https://user-images.githubusercontent.com/105687375/184791676-293eb968-83d2-4a4b-9d9e-b823146ce45f.png)
+
+•	Medimos la resistencia que pasara por la resistencia de 5Ω
+
+![image](https://user-images.githubusercontent.com/105687375/184793242-b37de0b6-4349-47dc-b09d-573f862f8114.png)
+
+
 
