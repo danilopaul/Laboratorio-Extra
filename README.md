@@ -45,9 +45,9 @@ Armamos el circuito en el simulador y medimos la corriente entre R2 y R3:
 
 ![image](https://user-images.githubusercontent.com/105687375/184780997-4991d01b-1c32-4922-a33f-4ec0147fe3f6.png)
 
-Desconectamos la fuente de energia de 16V y medimos la corriente de entre R2 y R3:
+Desconectamos la fuente de energia de 16V y medimos la corriente de entre R2 y R3 y el voltaje a traves de la resistencia de 12Ω:
 
-![image](https://user-images.githubusercontent.com/105687375/184781171-4416fcd8-9816-4841-9b88-d08159cf095e.png)
+![image](https://user-images.githubusercontent.com/105687375/184783400-7b9ecfff-6dcd-40c9-a5f1-fdc9722f61b6.png)
 
 Desconectamos la fuente de voltaje de 10V y medimos la corriente entre R2 y R3:
 
@@ -63,6 +63,7 @@ I= -400 mA
 
 Entonces:
 
-  I = 500mA - 400mA = 100 mA      
-  
+I=500mA - 400mA = 100mA
+
+El voltaje es 
   
