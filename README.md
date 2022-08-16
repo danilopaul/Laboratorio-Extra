@@ -139,7 +139,8 @@ RTH=  5Ω
 
 4.Video:
 
-5. Coclusiones:
+5.Conclusiones:
+
 
 6.Bibliografia:
 
