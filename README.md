@@ -121,5 +121,29 @@ P= 31.44 mW
 
 ![image](https://user-images.githubusercontent.com/105687375/184793242-b37de0b6-4349-47dc-b09d-573f862f8114.png)
 
+•	Medimos el voltaje equivalente de Thevenin:
+
+![image](https://user-images.githubusercontent.com/105687375/184793789-c1b775b3-b053-403b-9416-ef1ef089e0e0.png)
+
+VTH= 10.0V
+
+•	Desconectamos las fuentes de voltaje y quitamos la resistencia de 5Ω y medimos la resistencia equivalente de Thevenin.
+
+![image](https://user-images.githubusercontent.com/105687375/184794310-3212952d-6f62-48d8-b3f5-4946de3aca4e.png)
+
+RTH=  5Ω 
+
+•	Entonces, la corriente que pasa por la resistencia 5Ω, aplicando el teorema de Thevenin es
+
+![image](https://user-images.githubusercontent.com/105687375/184795506-1b66e06a-b49b-45ca-b489-7a57839f8628.png)
+
+4.Video:
+
+5. Coclusiones:
+
+6.Bibliografia:
+
+
+
 
 
