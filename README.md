@@ -69,5 +69,42 @@ Como la corriente E1 esta subiendo  y la corriente E2 esta en sentido opuesto, e
 
 V= 6V -  4.80V = 1.20V
 
+3.2. Circuito #2:
 
-  
+- Empleando el circuito equivalente de Thevenin determine la potencia suministrada a la resistencia R3:
+
+![image](https://user-images.githubusercontent.com/105687375/184784492-c1f2d63f-047a-4de1-bb3d-f63fbcac5f9b.png)
+
+•	Simulación de circuito principal:
+
+![image](https://user-images.githubusercontent.com/105687375/184785085-0f9b5170-7f86-465e-9624-e0deb0efe67d.png)
+
+•	Aplicar el teorema de Thevenin que menciona que se puede reducir un circuito a una sola fuente de voltaje en serie con una sola resistencia, denominadas equivalentes de Thevenin.
+
+Desconertar la resistencia  de 2.2kΩ, para obtener el voltaje y resistencia de Thevenin:
+
+El voltaje de Thevenin es:
+
+![image](https://user-images.githubusercontent.com/105687375/184787139-1547febb-1471-48e9-94fe-b192f7172f72.png)
+
+VTH=  8.32V
+
+Por lo tanto, la Resistencia equivalente de Thevenin es:
+
+![image](https://user-images.githubusercontent.com/105687375/184787506-dddf2efd-7fd2-498d-a41b-06ddbd1793e2.png)
+
+RTH= 4.7 kΩ
+
+El circuito equivalente de Thevenin es:
+
+![image](https://user-images.githubusercontent.com/105687375/184788856-389b20a3-95a0-4c31-b03c-914c4b67de33.png)
+
+•	Utilizamos el potenciómetro, para obtener el valor preciso de la resistencia equivalente de Thevenin. Una vez obtenido estos datos se procede a calcular la potencia que existen en R3 o RL.
+
+P= I * V
+
+P= 3.78mA *  8.32V
+
+P= 31.44 mW
+
+
