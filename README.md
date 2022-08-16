@@ -41,4 +41,8 @@ EQUIPO Y MATERIAL REQUERIDO:
 
 ![image](https://user-images.githubusercontent.com/105687375/184739366-6126de8c-5fae-4326-8ba6-4831f4085564.png)
 
+Armamos el circuito en el simulador y medimos la corriente de R2 y R3:
+
+![image](https://user-images.githubusercontent.com/105687375/184780925-f5a65035-134b-4609-ab99-1ac7e5e95a50.png)
+
 
