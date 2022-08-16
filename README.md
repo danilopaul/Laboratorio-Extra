@@ -49,9 +49,9 @@ Desconectamos la fuente de energia de 16V y medimos la corriente de entre R2 y R
 
 ![image](https://user-images.githubusercontent.com/105687375/184783400-7b9ecfff-6dcd-40c9-a5f1-fdc9722f61b6.png)
 
-Desconectamos la fuente de voltaje de 10V y medimos la corriente entre R2 y R3:
+Desconectamos la fuente de voltaje de 10V y medimos la corriente entre R2 y R3 y el volatje entre la resistencia de 12Ω:
 
-![image](https://user-images.githubusercontent.com/105687375/184781436-994115a5-b52a-4db2-93eb-e108f18b6a01.png)
+![image](https://user-images.githubusercontent.com/105687375/184783605-6de70fef-15bf-48c4-92b2-2eb572a27bd9.png)
 
 Entonces aplicando el teorema del superposicion, al desconecta la fuente de 16V la corriente  a traves de la resistencia 12Ω es:
 
@@ -65,5 +65,9 @@ Entonces:
 
 I=500mA - 400mA = 100mA
 
-El voltaje es 
+Como la corriente E1 esta subiendo  y la corriente E2 esta en sentido opuesto, estas se restan, por lo cual tambien el voltaje se resta:
+
+V= 6V -  4.80V = 1.20V
+
+
   
