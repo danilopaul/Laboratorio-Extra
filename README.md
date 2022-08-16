@@ -53,7 +53,16 @@ Desconectamos la fuente de voltaje de 10V y medimos la corriente entre R2 y R3:
 
 ![image](https://user-images.githubusercontent.com/105687375/184781436-994115a5-b52a-4db2-93eb-e108f18b6a01.png)
 
+Entonces aplicando el teorema del superposicion, al desconecta la fuente de 16V la corriente  a traves de la resistencia 12Ω es:
 
+I=500 mA
 
+Al desconectar la fuente de voltaje de 10 V, ls corriente que pasa a traves de las resistecia de 12Ω:
 
+I= -400 mA
 
+Entonces:
+
+  I = 500mA - 400mA = 100 mA      
+  
+  
