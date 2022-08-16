@@ -41,8 +41,19 @@ EQUIPO Y MATERIAL REQUERIDO:
 
 ![image](https://user-images.githubusercontent.com/105687375/184739366-6126de8c-5fae-4326-8ba6-4831f4085564.png)
 
-Armamos el circuito en el simulador y medimos la corriente de R2 y R3:
+Armamos el circuito en el simulador y medimos la corriente entre R2 y R3:
 
-![image](https://user-images.githubusercontent.com/105687375/184780925-f5a65035-134b-4609-ab99-1ac7e5e95a50.png)
+![image](https://user-images.githubusercontent.com/105687375/184780997-4991d01b-1c32-4922-a33f-4ec0147fe3f6.png)
+
+Desconectamos la fuente de energia de 16V y medimos la corriente de entre R2 y R3:
+
+![image](https://user-images.githubusercontent.com/105687375/184781171-4416fcd8-9816-4841-9b88-d08159cf095e.png)
+
+Desconectamos la fuente de voltaje de 10V y medimos la corriente entre R2 y R3:
+
+![image](https://user-images.githubusercontent.com/105687375/184781436-994115a5-b52a-4db2-93eb-e108f18b6a01.png)
+
+
+
 
 
