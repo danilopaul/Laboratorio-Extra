@@ -141,10 +141,14 @@ RTH=  5Ω
 
 5.Conclusiones:
 
+•	En conclusión, en un circuito que presenta dos o más fuentes de voltaje, se es recomendable aplicar el teorema de superposición, los cuales siguen una serie de pasos, para obtener los datos desconocidos, como es el caso de la corriente que pasa a través de una resistencia en específico.
+
+•	Mediante la aplicación del teorema de Thevenin, se pudo apreciar que la resistencia equivalente Thevenin, se obtiene al reemplazar las fuentes de voltaje por circuitos cerrados, las fuentes de corrientes por circuitos abiertos, y para la resistencia que se desea calcular, se la pone en corto, esto permite obtener una única resistencia que es equivalente a la resistencia total.
+
+•	Para obtener el voltaje de Thevenin, se debe poner en corto la resistencia que se desea calcular y mediante los diferentes métodos como; malla, ramas y nodos, se obtendría el valor de este voltaje equivalente.
+
+•	Los usos de los simuladores permiten comprender de mejor manera el proceso que se debe tener para obtener el valor de resistencia, corriente y voltaje, cuando se aplican los teoremas ya mencionados.
 
 6.Bibliografia:
 
-
-
-
-
+Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación.
