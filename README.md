@@ -139,6 +139,8 @@ RTH=  5Ω
 
 4.Video:
 
+https://youtu.be/JeJOKdRS7zw
+
 5.Conclusiones:
 
 •	En conclusión, en un circuito que presenta dos o más fuentes de voltaje, se es recomendable aplicar el teorema de superposición, los cuales siguen una serie de pasos, para obtener los datos desconocidos, como es el caso de la corriente que pasa a través de una resistencia en específico.
